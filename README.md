@@ -14,4 +14,4 @@ Clone this repo or download the .slx files directly.
 
 *克隆此仓库或直接下载 .slx  文件*
 
-***!NOTICE:** All models are create with **MATLAB R2024a***
+***!NOTICE:** All models are create with **MATLAB R2024a**. May not support older versions.*
